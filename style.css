@@ -1,0 +1,54 @@
+.container{
+	width:150%;
+	height:auto;
+}
+header
+{
+	height:10%
+	background-color:skyblue;
+}
+body{
+	margin:0;
+}
+.logo{
+	float:left;
+}
+.nav{
+	float:left;
+	width:75%;
+}
+.nav ul li{
+		display:inline-block;
+		margin-right:10%;
+	}
+.nav ul li a{
+		font-size:20px;
+		text-decoration:none;
+		color:#fff;
+	}
+.content{
+	width:auto;
+	height:auto;
+}
+.img{
+	float:left;
+}
+.secondLeft{
+	width: 60%;
+	height: 1000px;
+	float: left;
+}
+.secondLast{
+	width: 60%;
+	height:1000px;
+	float:left;
+}
+.left{
+	float:left;
+}
+.right{
+	float:right;
+}
+.mid{
+	float:left;
+}
